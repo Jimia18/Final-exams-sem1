@@ -1,5 +1,5 @@
 # Final-exams-sem1
-# OBJECTIVE QUESTIONS
+## SECTION A: MULTIPLE CHOICE QUESTIONS
 ### 1 A
 ### 2 D
 ### 3 B

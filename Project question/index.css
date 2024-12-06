@@ -1,0 +1,72 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    font-weight: bolder;
+    opacity: 100%;
+    background-color: rgb(43, 63, 100) ;
+    background-size: cover;
+    background-position: center;
+    color: #030303;
+    background-blend-mode: soft-light;
+    backface-visibility: hidden
+    }
+    header{
+        background-color: darkcyan;
+        text-align: center;
+        padding: 1px;
+        line-height: 0.5;
+    }
+    .image{
+        position: absolute;
+        border-radius: 1000px;
+        height: 150px;
+        width: 160px;
+    margin-left: -650px;
+    margin-top: 10px;
+    align-items: end;
+    }
+    nav ul li{
+        display: inline;
+        margin: 0 1rem;
+        text-align: end;
+}
+
+    nav ul li a{
+        text-align: right;
+        text-decoration: underline;
+        display: inline;
+        text-indent: 1rem;
+        margin-right: -6px;
+        
+    }
+    li a:hover{
+        color:black;
+        background-color: antiquewhite;
+    }
+    table{
+        width: 100%;
+        border-collapse: 
+        collapse;
+    
+        margin-top: 10px
+    }
+    th{
+
+        color:black;
+        padding: 15px;
+        border: 2px solid;
+        text-transform: uppercase;
+        border-radius: 10px;
+        box-shadow: #ddd;
+    }
+    td{
+        padding: 15px;
+        border: 2px solid black;
+    }
+    tbody tr :nth-child(odd) {
+        background-color: #59258a;
+    }
+    tbody tr :hover{
+        background-color: rgb(107, 170, 185);
+        cursor: pointer;
+    }
